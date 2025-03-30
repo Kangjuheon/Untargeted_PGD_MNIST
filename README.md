@@ -21,7 +21,7 @@ pip install -r requirements.txt
 python test.py
 ```
 ## Example output
-bash```
+```bash
 Epoch 1, Loss: 0.20
 ...
 [Clean Accuracy] 98.75%
