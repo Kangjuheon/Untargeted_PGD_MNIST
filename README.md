@@ -25,7 +25,7 @@ python test.py
 Epoch 1, Loss: 0.20
 ...
 [Clean Accuracy] 98.75%
-[PGD Untargeted Attack Accuracy] eps=0.3, k=10 → 11.30%
+[PGD Untargeted Attack Accuracy] eps=0.3, k=10 → 0.08%
 ```
 
 ## Notes
