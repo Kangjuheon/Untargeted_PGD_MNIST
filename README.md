@@ -22,9 +22,11 @@ python test.py
 ```
 ## Example output
 ```bash
-Epoch 1, Loss: 0.20
-...
-[Clean Accuracy] 98.75%
+Epoch 1, Loss: 0.1428
+Epoch 2, Loss: 0.0413
+Epoch 3, Loss: 0.0260
+
+[Clean Accuracy] 98.85%
 [PGD Untargeted Attack Accuracy] eps=0.3, k=10 → 0.08%
 ```
 
